@@ -7494,7 +7494,7 @@ img.lazy-image.loaded {
   overflow: hidden;
 }
 
-.featured-section .left-col .image-box:before {
+/* .featured-section .left-col .image-box:before {
   content: "";
   position: absolute;
   left: -90px;
@@ -7522,7 +7522,7 @@ img.lazy-image.loaded {
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
   border-radius: 7px;
-}
+} */
 
 .featured-section .left-col .image-box:hover img {
   -webkit-filter: grayscale(0%);
@@ -16508,15 +16508,16 @@ img.lazy-image.loaded {
   transition: background 500ms ease;
   margin-bottom: 30px;
 }
-
+/* 
 .how-it-works-card:hover {
   background-color: var(--thm-base);
-}
+} */
+
 
 .how-it-works-card__inner {
   border-radius: 8px;
   background-color: #fff;
-  padding-bottom: 45px;
+  padding-bottom: 5px;
 }
 
 .how-it-works-card__icon {
